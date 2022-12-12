@@ -1,4 +1,4 @@
-package com.u6amtech.flutter_sixvalley_ecom
+package com.snapbuy.ng
 
 import io.flutter.app.FlutterApplication
 import io.flutter.plugin.common.PluginRegistry
